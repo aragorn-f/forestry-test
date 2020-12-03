@@ -5,7 +5,8 @@ fields:
 - name: block-1
   type: blocks
   label: block-1
-  template_types: []
+  template_types:
+  - page-template
   config:
     min: 
     max: 

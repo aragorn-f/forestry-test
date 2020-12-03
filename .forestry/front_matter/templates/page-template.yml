@@ -1,4 +1,11 @@
 ---
 label: page-template
 hide_body: false
-fields: []
+fields:
+- name: block-1
+  type: blocks
+  label: block-1
+  template_types: []
+  config:
+    min: 
+    max: 

@@ -1,7 +1,7 @@
 ---
 date: 2019-08-08T22:42:09.000+00:00
 title: Andy test
-author: Allen Ginsberg
+author: andy
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
 ---

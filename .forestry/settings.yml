@@ -24,6 +24,7 @@ sections:
   new_doc_ext: md
   templates:
   - blog-post
+  - page-template
 - type: document
   path: content/data/info.json
   label: Info Page

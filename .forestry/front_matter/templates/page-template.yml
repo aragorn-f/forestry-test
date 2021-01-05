@@ -13,3 +13,4 @@ fields:
     max: 
 pages:
 - content/pages/p1.md
+- content/pages/p2.md

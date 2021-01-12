@@ -2,15 +2,11 @@
 label: page-template
 hide_body: false
 fields:
-- name: block-1
-  type: blocks
-  label: block-1
-  template_types:
-  - header-1
-  - info-page
+- name: t1
+  type: text
   config:
-    min: 
-    max: 
+    required: false
+  label: t1
 pages:
 - content/pages/p1.md
 - content/pages/p2.md

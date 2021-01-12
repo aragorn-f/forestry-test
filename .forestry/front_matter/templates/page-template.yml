@@ -13,5 +13,6 @@ fields:
     required: false
   label: t2
 pages:
+- content/pages/p-3.md
 - content/pages/p1.md
 - content/pages/p2.md

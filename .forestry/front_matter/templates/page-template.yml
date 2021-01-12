@@ -7,6 +7,11 @@ fields:
   config:
     required: false
   label: t1
+- name: t2
+  type: text
+  config:
+    required: false
+  label: t2
 pages:
 - content/pages/p1.md
 - content/pages/p2.md

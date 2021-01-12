@@ -1,4 +1,9 @@
 ---
 label: template-1
 hide_body: true
-fields: []
+fields:
+- name: text-1
+  type: text
+  config:
+    required: false
+  label: text-1
